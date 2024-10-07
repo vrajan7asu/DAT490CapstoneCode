@@ -1,6 +1,4 @@
 # DAT490CapstoneCode
-Code Used for Capstone
-
 Copy_of_TrafficEDA_Nick_October6(2).ipynb
 This notebook contains the initial exploratory data analysis of our traffic dataset.
 

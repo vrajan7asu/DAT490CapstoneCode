@@ -6,7 +6,4 @@ Data-Preprocessing.ipynb:
 This notebook focuses on preparing the data for modeling. 
 
 ModelBuilding.ipynb:
-This notebook contains the code for building and evaluating our models.
-
-analysis.ipynb:
-This notebook has various snippets of code we started and may need later.
+This notebook contains the code for building and evaluating our Random Forest Model and the RNNs.
